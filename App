@@ -1,0 +1,9 @@
+var myArray;
+myArray = ["Jesse Novotny", "jessenovotny"];
+function cutName (myArray) {
+cut "Jesse Novotny" into "Jesse" "Novotny";
+}
+var myData = {};
+myData.fullName = function (myArray) {myArray[0, 1]};
+myData.skype = function (myArray) {myArray[2]};
+myData.github = "jessenovotny"
